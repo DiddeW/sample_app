@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.1'
 
 group :development, :test do
-  gem 'sqlite3', '1.3.5'
+  gem 'sqlite3' , '1.3.8'
   gem 'rspec-rails', '2.10.0'
 end
 
