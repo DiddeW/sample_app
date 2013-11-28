@@ -1,6 +1,5 @@
 @import "bootstrap";
 
-
 /* mixins, variables, etc. */
 
 $grayMediumLight: #eaeaea;
@@ -71,7 +70,7 @@ p {
   font-weight: bold;
   line-height: 1;
   &:hover {
-    color: White;
+    color: white;
     text-decoration: none;
   }
 }
